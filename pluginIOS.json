@@ -1,0 +1,8 @@
+{
+  "package": "com.huawei.works.h5.invoice",
+  "packageAlias": "welink.invoice",
+  "versionCode": "3",
+  "versionName": "1.1.3",
+  "indexURL": "h5://welink.invoice/html/index.html",
+  "minAdaptedCode": "74"   
+}
